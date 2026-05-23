@@ -25,6 +25,7 @@ streamlit run gis_rag_app.py
 ```
 
 The app opens at **http://localhost:8501**
+
 or at: **https://gis-rag-assistant.streamlit.app/**
 
 ## 🔑 API Key
